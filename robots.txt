@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://cr0gers.github.io/sitemap.xml 
+Sitemap: https://sinewam.com/sitemap.xml 
